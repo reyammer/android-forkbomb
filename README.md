@@ -7,6 +7,4 @@ The included APK will not start itself at boot, so it is fairly easy to uninstal
 
 For any questions, fell free to drop us an email.
 
-Antonio Bianchi - antoniob@cs.ucsb.edu
-
-Yanick Fratantonio - yanick@cs.ucsb.edu
+Antonio Bianchi (antoniob@cs.ucsb.edu) & Yanick Fratantonio (yanick@cs.ucsb.edu)
